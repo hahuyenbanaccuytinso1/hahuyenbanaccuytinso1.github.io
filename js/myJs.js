@@ -1,13 +1,13 @@
 const textConfig = {
   text1: "he luuuu cau",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaaaaa.",
-  text3: "Nguyễn Trường Bán ACC Có Uy Tín Không",
+  text3: "Huyền Bán ACC Có Uy Tín Không",
   text4: "Nếu không trả lời tớ buồn lắm :(((",
   text5: "Scamm",
   text6: "Uy Tín 100000000%",
   text7: "Sao Mà Nói Đúng Vậy <3 Bạn Muốn Nói Gì Với Mình Không?",
   text8: "Gửi cho tớ <3",
-  text9: "Đẹp Trai, Uy Tín Số 1 Việt Nam =)))",
+  text9: "Xinh Gái, Uy Tín Số 1 Việt Nam =)))",
   text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
     "Còn Chờ Gì Mà Không Inbox Cho Tớ Đi <3",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/thanhh.201";
+            window.location = "https://www.facebook.com/hahuyen288";
           },
         });
       }
